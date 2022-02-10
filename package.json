@@ -46,7 +46,7 @@
     "inky": "^1.3.6",
     "lazypipe": "^1.0.1",
     "merge-stream": "^1.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "panini": "^1.3.0",
     "rimraf": "^2.3.3",
     "siphon-media-query": "^1.0.0",
